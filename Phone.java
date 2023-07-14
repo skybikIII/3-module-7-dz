@@ -9,9 +9,9 @@ public class Phone implements Comparable<Phone> {
     }
 
     public String toString() {
-        return "Модель: " + model + "\n"+
-                "Производитель: " + manufacturer + "\n"+
-                "Цена: " + price + "\n";
+        return "ГЊГ®Г¤ГҐГ«Гј: " + model + "\n"+
+                "ГЏГ°Г®ГЁГ§ГўГ®Г¤ГЁГІГҐГ«Гј: " + manufacturer + "\n"+
+                "Г–ГҐГ­Г : " + price + "\n";
     }
 
     @Override
